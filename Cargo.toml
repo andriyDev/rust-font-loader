@@ -21,4 +21,4 @@ core-text = "19"
 core-foundation = "0.9"
 
 [target.'cfg(all(unix, not(target_os = "macos")))'.dependencies]
-servo-fontconfig = "5.1.0"
+servo-fontconfig = "0.5.1"
